@@ -1,6 +1,5 @@
 PCAN Entegrasyonu ile QT Araç İklim Kontrolü
 
-Türkçe
 Bu proje, QT framework kullanarak gelişmiş bir araç klima kontrol sistemi uygulaması olup, aracın sistemleri ile gerçek zamanlı veri alışverişi için PCAN (CAN bus) iletişimini entegre etmektedir.
 
 Proje Genel Bakış
