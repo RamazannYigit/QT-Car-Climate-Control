@@ -1,9 +1,6 @@
 # QT-Car-Climate-Control
 QT Car Climate Control with PCAN Integration
 
-QT Car Climate Control with PCAN Integration
-
-English
 This project implements an advanced car climate control system using the QT framework, integrated with PCAN (CAN bus) communication for real-time data exchange with the vehicle's systems.
 
 Project Overview
