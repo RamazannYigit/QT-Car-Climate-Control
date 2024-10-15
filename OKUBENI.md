@@ -7,6 +7,11 @@ Bu proje, QT framework kullanarak gelişmiş bir araç klima kontrol sistemi uyg
 ## Proje Genel Bakış
 QT Araç Klima Kontrol uygulaması, bir aracın klima sistemini izlemek ve kontrol etmek için gelişmiş bir arayüz sunar. Aracın CAN bus'ı ile çift yönlü iletişim için PCAN (Peak CAN) donanımını kullanarak, çeşitli klima parametrelerinin gerçek zamanlı veri alımını ve kontrolünü sağlar.
 
+<div style"display: flex; justify-content: space-between;">
+   <img src="Photo's/1.png" alt="1.png" width="500" />
+   <img src="Photo's/2.png" alt="2.png" width="500" />
+</div>
+
 ## Özellikler
 - Gerçek zamanlı sıcaklık kontrolü ve izleme  
 - Çoklu seviyeli fan hızı ayarı  
