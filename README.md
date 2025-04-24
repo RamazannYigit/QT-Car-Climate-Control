@@ -3,8 +3,16 @@
 
 This project implements an advanced car climate control system using the QT framework, integrated with PCAN (CAN bus) communication for real-time data exchange with the vehicle's systems.
 
+<div style="display: flex; justify-content: center;">
+   <img src="Photo's/1.png" alt="Main UI" width="500" />
+</div>
+
 ## Project Overview
 The QT Car Climate Control application provides a sophisticated interface for monitoring and controlling a vehicle's climate system. It utilizes PCAN (Peak CAN) hardware for bidirectional communication with the car's CAN bus, allowing real-time data acquisition and control of various climate parameters.
+
+<div style="display: flex; justify-content: center;">
+   <img src="Photo's/2.png" alt="Climate Control Panel" width="500" />
+</div>
 
 ## Features
 - Real-time temperature control and monitoring  
